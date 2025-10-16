@@ -1,5 +1,6 @@
 {
   "family": "wild-rydes-task",
+  "executionRoleArn": "arn:aws:iam::505285757529:role/ecsTaskExecutionRolee",
   "networkMode": "awsvpc",
   "requiresCompatibilities": ["FARGATE"],
   "cpu": "1024",
